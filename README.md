@@ -3,7 +3,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on [FurFinder (Lost & Found Pet Website)](https://furfinder.onrender.com/)
+- 🔭 I’m currently working on [FurFinder (Lost & Found Pets Website)](https://furfinder.onrender.com/)
 
 - 🌱 I’m currently learning **AWS Cloud Practitioner Essentials**
 
