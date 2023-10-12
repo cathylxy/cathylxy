@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FurFinder (Lost & Found Pets Website)](https://furfinder.onrender.com/)
 
-- 🌱 I’m currently learning **AWS Cloud Practitioner Essentials**
+- 🌱 I’m currently learning **AWS Cloud Practitioner Essentials, C#, .NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
