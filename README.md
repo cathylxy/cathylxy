@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cathy Liu</h1>
-<h3 align="center">UBC Computer Science & Finance</h3>
+<h3 align="center">Computer Science & Finance @ UBC </h3>
 
 <h3 align="left">About me:</h3>
 
+- 🎓 I’m pursuing my second bachelor’s degree in **Computer Science**
+
 - 🔭 I’m currently working on [FurFinder (Lost & Found Pets Website)](https://furfinder.onrender.com/)
 
-- 🌱 I’m currently learning **AWS Cloud Practitioner Essentials, C#, .NET**
+- 🌱 I’m currently learning **C#, .NET, AWS Cloud Practitioner Essentials**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
