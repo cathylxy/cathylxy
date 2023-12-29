@@ -5,9 +5,9 @@
 
 - 🎓 I’m pursuing my second bachelor’s degree in **Computer Science**
 
-- 🔭 I’m currently working on [FurFinder (Lost & Found Pets Website)](https://furfinder.onrender.com/)
+- 🔭 I’m currently working on [UBC CSSS Live Inventory System](https://github.com/ubccsss/Live-Inventory-System)
 
-- 🌱 I’m currently learning **C#, .NET, AWS Cloud Practitioner Essentials**
+- 🌱 I’m currently learning **AWS Cloud Practitioner Essentials**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
